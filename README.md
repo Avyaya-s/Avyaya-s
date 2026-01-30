@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avyaya S Yekkar</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avyaya-s" alt="avyaya-s" /></a> </p>
 
-- 🌱 I’m currently learning **CS50’s Introduction to AI with Python, Full Stack Web Dev**
-
 - 📫 How to reach me **avyayasyekkar.cs24@rvce.edu.in**
 
 <h3 align="left">Connect with me:</h3>
