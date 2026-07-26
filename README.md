@@ -1,57 +1,19 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e87a&height=240&section=header&text=Avyaya%20S%20Yekkar&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Student%20at%20RVCE&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Avyaya S Yekkar banner"/>
-</div>
+<h1 align="center">Hi 👋, I'm Avyaya S Yekkar</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avyaya-s" alt="avyaya-s" /></a> </p>
 
-<div align="center">
+- 📫 How to reach me **avyayasyekkar.cs24@rvce.edu.in**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avyaya-s-yekkar-398b74313/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-hosting-five.vercel.app/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/avyaya-s-yekkar-398b74313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avyaya-s-yekkar-398b74313" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/0cvb3aonsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0cvb3aonsz" height="30" width="40" /></a>
+</p>
 
-![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-00e87a?style=flat-square)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avyaya-s&show_icons=true&locale=en&layout=compact" alt="avyaya-s" /></p>
 
-### About
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avyaya-s&show_icons=true&locale=en" alt="avyaya-s" /></p>
 
-- ⌖ **Location** · Bengaluru, India
-- ◎ **Education** · R.V. College of Engineering, Bengaluru
-
-### Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,cs,css&theme=dark" alt="Languages"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=firebase,flask,mysql&theme=dark" alt="Backend & Databases"/>
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=vscode,linux,git,vercel,figma&theme=dark" alt="DevOps & Cloud"/>
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,pandas,opencv,jupyter,numpy&theme=dark" alt="AI / ML"/>
-
-### Languages
-- 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
-- 🌐 **Kannada** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
-- 🌐 **Hindi** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=avyaya-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Avyaya S Yekkar stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyaya-s&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Avyaya S Yekkar top languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/avyaya-s">github.com/avyaya-s</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e87a&height=120&section=footer" width="100%" alt="Footer wave"/>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avyaya-s&" alt="avyaya-s" /></p>
